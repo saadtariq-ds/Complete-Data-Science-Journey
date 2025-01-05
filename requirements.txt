@@ -18,3 +18,5 @@ xgboost==2.1.2
 kneed==0.8.5
 redis==5.2.1
 mlflow
+nltk==3.9.1
+spacy==3.8.3
