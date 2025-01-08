@@ -2,3 +2,4 @@
 __pycache__/
 .idea
 07-MLflow/mlruns/*
+08-Natural-Language-Processing/.ipynb_checkpoints/*
