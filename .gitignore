@@ -170,3 +170,6 @@ docs/
 
 # MlFlow runs
 mlruns
+
+# Models
+*.pt
