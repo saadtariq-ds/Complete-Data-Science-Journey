@@ -175,3 +175,6 @@ mlruns
 *.pt
 *.h5
 *.keras
+
+# Datasets folders
+cell_images
