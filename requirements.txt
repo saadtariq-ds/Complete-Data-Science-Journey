@@ -24,3 +24,4 @@ scipy==1.10.0
 gensim==4.3.3
 torch==2.6.0
 tensorflow==2.18.0
+torchvision==0.21.0
